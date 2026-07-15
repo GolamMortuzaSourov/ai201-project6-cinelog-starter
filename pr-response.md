@@ -139,4 +139,4 @@ Adding a film already on the watchlist is rejected (`AlreadyInWatchlistError`), 
 - `refactor: rename save_to_watchlist to add_to_watchlist`
 - `feat: add watchlist model, service, and endpoints`
 
-8 commits, conventional format, one logical change each, no merge commits, rebased on `main`. *(Replace with a screenshot of `git log --oneline` for submission.)*
+8 commits, conventional format, one logical change each, no merge commits, rebased on `main`. ![alt text](<Screenshot 2026-07-14 at 8.33.25 PM.png>)
